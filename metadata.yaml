@@ -1,0 +1,53 @@
+_repo: Kulturhistorische-Charakterbilder-b-Fur-die-Jugend_75634
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Poritzky, J. E. (Jakob Elias)
+    alias: Poritzky, Jakob Elias
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '58078'
+    url: http://www.gutenberg.org/2009/agents/58078
+    wikipedia: https://de.wikipedia.org/wiki/Jakob_Elias_Poritzky
+description: 'Reading ease score: 67.9 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Biographies'
+- 'Browsing: History - General'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75634'
+language: de
+pgterms:marc905: 20220818113200poritzky
+pgterms:marc906: '1919'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aStuttgart :$bLoewes Verlag Ferdinand Carl, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography -- Juvenile literature'
+- !lcc 'CT'
+- GITenberg
+summary: '"Kulturhistorische Charakterbilder: Für die Jugend" by J. E. Poritzky is
+  a collection of biographical sketches intended for a young audience, written in
+  the late 19th century. This work delves into the lives of significant historical
+  figures, starting with the explorations of Christopher Columbus, and is likely designed
+  to inspire young readers by showcasing the character and contributions of these
+  influential individuals.  The opening of the book begins with a reflection on Columbus''s
+  famous discovery of the New World. Poritzky illustrates the moment Columbus hears
+  “Land!” after a long voyage, pondering the explorer’s emotions and motivations—from
+  dreams of wealth and power to a deeper spiritual and intellectual ambition. He acknowledges
+  the Renaissance atmosphere that surrounded Columbus, filled with the zeitgeist of
+  exploration and intellectual awakening, emphasizing the interconnectedness of human
+  progress above mere material gain. Through vivid imagery and historical context,
+  the text sets the stage for Columbus''s significance as both a navigator and a complex
+  figure shaped by the beliefs and aspirations of his time. (This is an automatically
+  generated summary.)'
+tableOfContents: Christoph Kolumbus -- Michelangelos Leben -- Galilei -- Die Jungfrau
+  von Orleans -- Der Doktor Faust -- Goethe der Botaniker -- Goethe in Venedig --
+  Beethoven -- Der Erfinder Edison.
+title: 'Kulturhistorische Charakterbilder : $b Für die Jugend'
+url: http://www.gutenberg.org/ebooks/75634
